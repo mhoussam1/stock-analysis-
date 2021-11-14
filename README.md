@@ -15,6 +15,14 @@ For this project, we are working with the stock market dataset using the VBA sol
 ## Analysis and Challenges
 conclusion is that refratoring the code successfully made the VBA script run faster.
 
+<img width="733" alt="Screen Shot 2021-11-14 at 12 57 52 PM" src="https://user-images.githubusercontent.com/93894964/141695642-15b4cc93-0b83-471c-ad11-d9662e7129aa.png">
+
+<img width="746" alt="Screen Shot 2021-11-14 at 12 56 45 PM" src="https://user-images.githubusercontent.com/93894964/141695644-f09021f6-3030-4e2b-8410-9681f0c27fb7.png">
+
+<img width="819" alt="Screen Shot 2021-11-14 at 1 28 26 PM" src="https://user-images.githubusercontent.com/93894964/141695648-6b451de7-f737-40e5-afa0-7eabfe86f76b.png">
+
+<img width="812" alt="Screen Shot 2021-11-14 at 1 28 41 PM" src="https://user-images.githubusercontent.com/93894964/141695652-b254d793-5843-4fc4-94d9-5c97c0314bd9.png">
+
 Summary
 
 What are the advantages or disadvantages of refactoring code?
